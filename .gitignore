@@ -7,7 +7,3 @@ __pycache__/
 
 # Arquivos de ambiente
 .env
-
-# Dados temporários
-data/*.csv
-models/*.pkl
