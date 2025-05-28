@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/User/Documents/.dev/Cases/rankmyapp_teste/notebooks/../models/mlruns/500317620984170799
+creation_time: 1748423024398
+experiment_id: '500317620984170799'
+last_update_time: 1748423024398
+lifecycle_stage: active
+name: mixedlm_vs_glm

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/User/Documents/.dev/Cases/rankmyapp_teste/notebooks/../models/mlruns/500317620984170799/2dd2c4a271e54c90aaa5bc6d5f2900ab/artifacts
+deleted_time: 1748436711203
+end_time: 1748436703592
+entry_point_name: ''
+experiment_id: '500317620984170799'
+lifecycle_stage: deleted
+run_id: 2dd2c4a271e54c90aaa5bc6d5f2900ab
+run_name: mixedlm_False_None
+run_uuid: 2dd2c4a271e54c90aaa5bc6d5f2900ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748436696882
+status: 4
+tags: []
+user_id: User

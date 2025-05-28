@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/User/Documents/.dev/Cases/rankmyapp_teste/notebooks/../models/mlruns/500317620984170799/b4aa9fa59d7e4c898dac5144b8fa25cc/artifacts
+deleted_time: 1748436711205
+end_time: 1748426201974
+entry_point_name: ''
+experiment_id: '500317620984170799'
+lifecycle_stage: deleted
+run_id: b4aa9fa59d7e4c898dac5144b8fa25cc
+run_name: glm_poisson
+run_uuid: b4aa9fa59d7e4c898dac5144b8fa25cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748426197230
+status: 3
+tags: []
+user_id: User

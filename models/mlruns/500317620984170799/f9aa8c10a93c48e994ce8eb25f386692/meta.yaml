@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/User/Documents/.dev/Cases/rankmyapp_teste/notebooks/../models/mlruns/500317620984170799/f9aa8c10a93c48e994ce8eb25f386692/artifacts
+deleted_time: 1748423832417
+end_time: 1748423697671
+entry_point_name: ''
+experiment_id: '500317620984170799'
+lifecycle_stage: deleted
+run_id: f9aa8c10a93c48e994ce8eb25f386692
+run_name: glm_gamma
+run_uuid: f9aa8c10a93c48e994ce8eb25f386692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748423692794
+status: 3
+tags: []
+user_id: User

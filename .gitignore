@@ -1,0 +1,13 @@
+# Arquivos Python
+__pycache__/
+*.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Arquivos de ambiente
+.env
+
+# Dados temporários
+data/*.csv
+models/*.pkl

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/User/Documents/.dev/Cases/rankmyapp_teste/notebooks/../models/mlruns/500317620984170799/06283a3c77184be189fb19a52c103b0d/artifacts
+deleted_time: 1748437490519
+end_time: 1748436787536
+entry_point_name: ''
+experiment_id: '500317620984170799'
+lifecycle_stage: deleted
+run_id: 06283a3c77184be189fb19a52c103b0d
+run_name: glm_gaussian
+run_uuid: 06283a3c77184be189fb19a52c103b0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748436782951
+status: 3
+tags: []
+user_id: User
